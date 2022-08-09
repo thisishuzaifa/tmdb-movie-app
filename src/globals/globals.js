@@ -1,0 +1,3 @@
+export const API_KEY = 'cb604a560e57e5f7a41895e71fb4985d';
+export const API_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjYjYwNGE1NjBlNTdlNWY3YTQxODk1ZTcxZmI0OTg1ZCIsInN1YiI6IjYxZDMyZWE1YmZlYjhiMDA0MWRiZTM4OSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.bh5fOrg3uOyH6lawkompk-mS2T3rZlW3xHCVE6TsdmY';
+export const APP_FOLDER_NAME = "movie-corner";
